@@ -5,7 +5,7 @@
 - 📫 How to reach me  ehsan.usama@outlook.com
 <div align="center">
   <a href="https://github.com/ehsanusama">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cs,dotnet,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cs,php,laravel,materialui,firebase,git,github,stackoverflow,vscodeqt&perline=6" />
   </a>
 </div>
 <!---
