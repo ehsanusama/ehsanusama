@@ -10,7 +10,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/ehsanusama">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cs,php,laravel,materialui,firebase,git,github,stackoverflow,jquery,vscodeqt&perline=6" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)" />
   </a>
 </div>
 <!---
