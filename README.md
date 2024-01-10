@@ -6,7 +6,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/ehsanusama">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,php,html,css,cpp,json,mysql,powershell,sass&includeNames=true" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,php,html,css,cpp,json,mysql&includeNames=true" />
   </a>
 </div>
 <br>
