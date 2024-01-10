@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on new technologies
 - 📫 How to reach me  ehsan.usama@outlook.com
-- ## 🧑‍💻 Tech Stack 🛠️
-
-<!-- tech stack -->
-<!-- reference = https://github.com/tandpfun/skill-icons -->
 <br>
 <div align="center">
   <a href="https://github.com/ehsanusama">
