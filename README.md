@@ -6,13 +6,13 @@
 <br>
 <div align="center">
   <a href="https://github.com/ehsanusama">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,php,html,css,cpp,json,mysql&includeNames=true" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=php,js,json,cpp,html,css,mysql&includeNames=true" />
   </a>
 </div>
 <br>
 <div align="center">
     <a href="https://github.com/ehsanusama">
-    <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,bootstrap,tailwind,laravel&includeNames=true" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=laravel,bootstrap,tailwind,react&includeNames=true" />
   </a>
 </div>
 
