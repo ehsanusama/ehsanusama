@@ -18,7 +18,7 @@
 
 <div align="center">
     <a href="https://github.com/ehsanusama">
-    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,firebase,vercel,heroku,apache,prettier&includeNames=true" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,firebase,vercel,heroku,apache&includeNames=true" />
   </a>
 </div>
 <!---
