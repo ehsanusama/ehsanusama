@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Usama Ehsan 👋<br><br>I'm a passionate Full-Stack Developer with a strong focus on PHP and Laravel.<br>Working on  building robust, scalable web applications. <br>Learning top-notch solutions, ensuring a seamless user experience.<br>
+Hi, I'm Usama Ehsan 👋<br><br>I'm a passionate Full-Stack Developer with a strong focus on PHP and Laravel.<br>Working on  building robust, scalable web applications. <br>Learning top-notch solutions, ensuring a seamless user experience.<br>
 
 
 ## 🌐 Socials:
